@@ -7,7 +7,7 @@
 - Project: DevOps Assignment 7
 - Website: https://sunl55859-hash.github.io/devops-pages-lab/
 
-## Recent activity
+## Recent updates - Failure Test
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to master in [sunl55859-hash/HW4-Deployment-Pipeline](https://github.com/sunl55859-hash/HW4-Deployment-Pipeline/commit/fc48473ba4100209bb39ec0bc3436548e3510593)
